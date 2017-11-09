@@ -1,0 +1,6 @@
+# IntelliJ Idea
+.idea/
+*.iml
+
+# Build and Target
+/target
